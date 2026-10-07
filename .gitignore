@@ -1,0 +1,5 @@
+# Keep documents and slides out of the repository
+*.pdf
+*.PDF
+*.pptx
+*.PPTX
